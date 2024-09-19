@@ -10,4 +10,4 @@ utilizo em aula a plataforma https://cursos.alura.com.br/user/senedeze-lara
 
 senedeze.lara@escola.pr.gov.br
 
-[](https://media1.tenor.com/m/uyrB9E4GThcAAAAd/cat-kitten.gif)
+![](https://media1.tenor.com/m/uyrB9E4GThcAAAAd/cat-kitten.gif)
