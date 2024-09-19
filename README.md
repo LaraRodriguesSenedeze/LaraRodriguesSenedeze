@@ -4,7 +4,7 @@ meu nome é Lara.
 
 Sou aluna.
 
-ultilizo em aula a plataforma https://cursos.alura.com.br/user/senedeze-lara
+utilizo em aula a plataforma https://cursos.alura.com.br/user/senedeze-lara
 
 ###Voce pode entrar em contato comigo
 
