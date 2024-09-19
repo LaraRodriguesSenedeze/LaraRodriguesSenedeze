@@ -1,16 +1,13 @@
-## Hi there 👋
+*Bem vindo ao meu perfil!*
 
-<!--
-**LaraRodriguesSenedeze/LaraRodriguesSenedeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Lara.
 
-Here are some ideas to get you started:
+Sou aluna.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ultilizo em aula a plataforma https://cursos.alura.com.br/user/senedeze-lara
+
+###Voce pode entrar em contato comigo
+
+senedeze.lara@escola.pr.gov.br
+
+[](https://media1.tenor.com/m/uyrB9E4GThcAAAAd/cat-kitten.gif)
